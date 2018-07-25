@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Jun 22 15:22:17 CST 2018
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=D\:\\Java-project\\MyNoteBook\\MyNoteBook_fat.jar
+manifest.mergeall=true
+manifest.mainclass=notebook.writebroadMain
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
